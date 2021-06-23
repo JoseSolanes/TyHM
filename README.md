@@ -15,7 +15,7 @@
 # Traducción del capítulo 10
 <p>Traducción y resumen sobre la descarbonización</p>
 <a href="https://github.com/JoseSolanes/TyHM/blob/main/TRADUCCIONFINAL.pdf">
-<img src= "https://user-images.githubusercontent.com/83772532/123159626-9d300780-d443-11eb-8ee0-d0ef5af732d2.jpg">
+<img src= "https://edteam-media.s3.amazonaws.com/blogs/original/7b2fab6a-afec-462c-92e4-56660f9a9b46.png">
 </a>
 
 
