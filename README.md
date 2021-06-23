@@ -17,6 +17,3 @@
 <img src="https://user-images.githubusercontent.com/83772532/123156389-9acbae80-d43f-11eb-8a28-910ea10c28b1.png" al
 
 
-
-
-# Traducción del Capitulo 10
