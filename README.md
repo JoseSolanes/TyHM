@@ -7,9 +7,9 @@
 # Repositorio GitHub
 ### Dejo el link de mi repositorio hacinedo click en la imagen
 
-<a href= >
-<img src= "https://user-images.githubusercontent.com/82980738/122609974-41d1d400-d055-11eb-9649-dfa23fb41b16.png
-" alt="cv" width="300px">
+<a href="https://github.com/JoseSolanes/TyHM/blob/main/CV_PRUEBA_SOLANES.pdf">
+  
+<img src= "https://user-images.githubusercontent.com/83772532/123155402-791df780-d43e-11eb-9445-7d9fb04d1734.png">
 </a>
 
 
